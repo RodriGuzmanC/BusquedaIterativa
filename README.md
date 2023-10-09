@@ -1,4 +1,5 @@
-# ejercicio06
+# Proyecto Busqueda Iterativa
+
 Proyecto con funcionalidad de busqueda iterativa que usa una base de datos para mostrar los datos en tiempo real.
 
 ## Instalación
