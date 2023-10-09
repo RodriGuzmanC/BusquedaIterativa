@@ -34,5 +34,3 @@ Antes de comenzar, asegúrate de tener [Visual Studio](https://visualstudio.micr
 
 
 ¡Listo!
-
-La aplicación debería estar en funcionamiento. Abre un navegador web y accede a http://localhost:puerto para ver tu proyecto en acción.
